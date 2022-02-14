@@ -50,7 +50,7 @@ import React from 'react'; /* STEP 0 */
 
 export default function Counter() {
   /* STEP 1 */
-
+  console.log("this is a test");
   const increment = () => {
     /* STEP 4 */
   };
